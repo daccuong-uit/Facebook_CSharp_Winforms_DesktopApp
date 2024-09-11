@@ -274,7 +274,12 @@ namespace GUI.Messaging.Forms
         #region -> Store messages, session, setting into Database
         public void SendMessage(int userId, int contactUserId, string content, Image contentImage, Image contentIcon, string contentVideo)
         {
-            messageService.SendMessage(userId, contactUserId, content, contentImage.ToString(), contentIcon.ToString(), contentVideo);
+            // Gọi phương thức của messageService
+            messageService.SendMessage(userId, contactUserId,
+                content,
+                contentImage != null ? contentImage.ToString() : null,
+                contentIcon != null ? contentIcon.ToString() : null,
+                contentVideo);
         }
         #endregion
 
