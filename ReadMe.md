@@ -42,12 +42,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -57,23 +52,42 @@
 
 [![Home screen](GUI/Assets/Images/Capture/Home_Screen.png)](GUI/Assets/Images/Capture/Home_Screen.png)
 
-### Additional Screenshots
-
-<div style="position: relative; width: 100%; height: 100%;">
-    <img src="GUI/Assets/Images/Capture/Login.png" alt="Login Screen" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
-</div>
-
-[![Chat Interface](GUI/Assets/Images/Capture/Login.png)](GUI/Assets/Images/Capture/Login.png)
-[![Profile Page](GUI/Assets/Images/Capture)/Posting.png](GUI/Assets/Images/Capture/Posting.png)
-[![Profile Page](GUI/Assets/Images/Capture/Profile.png)](GUI/Assets/Images/Capture/Profile.png)
-[![Profile Page](GUI/Assets/Images/Capture/Register.png)](GUI/Assets/Images/Capture/Register.png)
-
 [![Facebook][facebook-icon]](https://www.facebook.com) [![Messenger][messenger-icon]](https://www.messenger.com)
 
 [facebook-icon]: https://img.shields.io/badge/Facebook-3b5998?style=flat&logo=facebook&logoColor=white
 [messenger-icon]: https://img.shields.io/badge/Messenger-0084ff?style=flat&logo=messenger&logoColor=white
 
 This project is an innovative application that integrates Facebook and Messenger to enhance user interaction. It allows users to easily share content, connect with friends, and communicate through Messenger without leaving the Facebook ecosystem. Our goal is to create a more cohesive and engaging experience for users, enabling them to stay connected and share moments effortlessly.
+
+### Additional Screenshots
+
+<div style="position: relative; width: 100%; height: 100%;">
+    <img src="GUI/Assets/Images/Capture/Login.png" alt="Login Screen" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
+</div>
+
+<div style="position: relative; width: 100%; height: 100%;">
+    <img src="GUI/Assets/Images/Capture/Register.png" alt="Register Screen" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
+</div>
+
+<div style="position: relative; width: 100%; height: 100%;">
+    <img src="GUI/Assets/Images/Capture/Profile.png" alt="Profile Screen" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
+</div>
+
+<div style="position: relative; width: 100%; height: 100%;">
+    <img src="GUI/Assets/Images/Capture/Posting.png" alt="Posting Feature" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
+</div>
+
+<div style="position: relative; width: 100%; height: 100%;">
+    <img src="GUI/Assets/Images/Capture/Friends.png" alt="Friends Screen" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
+</div>
+
+<div style="position: relative; width: 100%; height: 100%;">
+    <img src="GUI/Assets/Images/Capture/Search.png" alt="Search Feature" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
+</div>
+
+<div style="position: relative; width: 100%; height: 100%;">
+    <img src="GUI/Assets/Images/Capture/ChatForm.png" alt="Chat Screen" style="position: absolute; top: 0; left: 0; width: 100%; height: 60%; object-fit: cover;">
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
